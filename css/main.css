@@ -6,12 +6,8 @@ main {
   background-color: #f2f2f2;
 }
 
-tbody tr:nth child(odd) {
+tbody tr:nth-child(odd) {
   background-color: #e2e2e2;
-}
-
-tfoot {
-  font-weight: bold;
 }
 
 .year {
